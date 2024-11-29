@@ -1,11 +1,14 @@
 {
   "vaultName": "Mappers",
-  "lastExport": 1732848325435,
+  "lastExport": 1732849070947,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager native-scrollbars theme-light show-inline-title show-ribbon",
   "useCustomHeadContent": false,
   "useCustomFavicon": false,
   "files": [
+    "이지유에 대하여/송하준은 무엇인가?.md",
+    "이지유에 대하여/온이프 그곳은 대체 무얼 하는 곳일까?.md",
+    "이지유에 대하여/이지유란 무엇인가?.md",
     "툴킷랩_ToolKit/Ai/내가 생각하는 Ai의 속성.md",
     "툴킷랩_ToolKit/Ai/내가 쓰는 Ai의 방식.md",
     "툴킷랩_ToolKit/Ai/인터뷰하기.md",
@@ -33,7 +36,14 @@
     "툴킷랩_ToolKit/11일 28일 저널링.md",
     "툴킷랩_ToolKit/툴킷랩.md",
     "툴킷랩_ToolKit/툴킷랩 저널링.md",
+    "Excalidraw/Drawing 2024-11-29 10.45.04.excalidraw.md",
+    "Mappers Project/팀 맵퍼스.md",
+    "Mappers Project/폐의약품 문제 개요.md",
+    "Mappers Project/폐의약품 문제 상황.md",
+    "Mappers Project/폐의약품 문제 해결.md",
     "2024-11-29.md",
+    "무제 파일.md",
+    "무제 파일.canvas",
     "index.md",
     "lib/scripts/graph-wasm.wasm",
     "lib/fonts/94f2f163d4b698242fef.otf",
@@ -64,7 +74,8 @@
     "lib/styles/theme.css",
     "lib/styles/global-variable-styles.css",
     "lib/styles/supported-plugins.css",
-    "lib/styles/main-styles.css"
+    "lib/styles/main-styles.css",
+    "툴킷랩_toolkit/ai/pasted-image-20241128121128.png"
   ],
   "mainDependencies": [
     "lib/scripts/graph-wasm.wasm",
@@ -238,8 +249,8 @@
       "dependencies": []
     },
     "툴킷랩_ToolKit/11월 29일 저널링.md": {
-      "modifiedTime": 1732848325435,
-      "sourceSize": 23,
+      "modifiedTime": 1732849070947,
+      "sourceSize": 60,
       "exportedPath": "툴킷랩_toolkit/11월-29일-저널링.html",
       "dependencies": []
     },
@@ -282,183 +293,243 @@
       "dependencies": []
     },
     "lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1732848325435,
+      "modifiedTime": 1732849070947,
       "sourceSize": 23377,
       "exportedPath": "lib/scripts/graph-wasm.wasm",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1732848325435,
+      "modifiedTime": 1732849070947,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1732848325435,
+      "modifiedTime": 1732849070947,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1732848325435,
+      "modifiedTime": 1732849070947,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1732848325435,
+      "modifiedTime": 1732849070947,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1732848325435,
+      "modifiedTime": 1732849070947,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1732848325435,
+      "modifiedTime": 1732849070947,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1732848325435,
+      "modifiedTime": 1732849070947,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1732848325435,
+      "modifiedTime": 1732849070947,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1732848325435,
+      "modifiedTime": 1732849070947,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1732848325435,
+      "modifiedTime": 1732849070947,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1732848325435,
+      "modifiedTime": 1732849070947,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1732848325435,
+      "modifiedTime": 1732849070947,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1732848325435,
+      "modifiedTime": 1732849070947,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1732848325435,
+      "modifiedTime": 1732849070947,
       "sourceSize": 317,
       "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1732848325435,
-      "sourceSize": 11370,
+      "modifiedTime": 1732849070947,
+      "sourceSize": 16713,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1732848325435,
+      "modifiedTime": 1732849070947,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/graph-view.js": {
-      "modifiedTime": 1732848325435,
+      "modifiedTime": 1732849070947,
       "sourceSize": 15519,
       "exportedPath": "lib/scripts/graph-view.js",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1732848325435,
+      "modifiedTime": 1732849070947,
       "sourceSize": 14021,
       "exportedPath": "lib/scripts/graph-wasm.js",
       "dependencies": []
     },
     "lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1732848325435,
+      "modifiedTime": 1732849070947,
       "sourceSize": 5179,
       "exportedPath": "lib/scripts/graph-render-worker.js",
       "dependencies": []
     },
     "lib/scripts/tinycolor.js": {
-      "modifiedTime": 1732848325435,
+      "modifiedTime": 1732849070947,
       "sourceSize": 29832,
       "exportedPath": "lib/scripts/tinycolor.js",
       "dependencies": []
     },
     "lib/scripts/pixi.js": {
-      "modifiedTime": 1732848325435,
+      "modifiedTime": 1732849070947,
       "sourceSize": 449509,
       "exportedPath": "lib/scripts/pixi.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1732848325435,
+      "modifiedTime": 1732849070947,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1732848325435,
+      "modifiedTime": 1732849070947,
       "sourceSize": 1105,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/scripts/graph-data.js": {
-      "modifiedTime": 1732848325435,
-      "sourceSize": 1804,
+      "modifiedTime": 1732849070947,
+      "sourceSize": 2386,
       "exportedPath": "lib/scripts/graph-data.js",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1732848325435,
+      "modifiedTime": 1732849070947,
       "sourceSize": 131118,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/theme.css": {
-      "modifiedTime": 1732848325435,
+      "modifiedTime": 1732849070947,
       "sourceSize": 204947,
       "exportedPath": "lib/styles/theme.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1732848325435,
+      "modifiedTime": 1732849070947,
       "sourceSize": 311,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/supported-plugins.css": {
-      "modifiedTime": 1732848325435,
+      "modifiedTime": 1732849070947,
       "sourceSize": 5136,
       "exportedPath": "lib/styles/supported-plugins.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1732848325435,
+      "modifiedTime": 1732849070947,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
+      "dependencies": []
+    },
+    "이지유에 대하여/송하준은 무엇인가?.md": {
+      "modifiedTime": 1732849070947,
+      "sourceSize": 407,
+      "exportedPath": "이지유에-대하여/송하준은-무엇인가/송하준은-무엇인가.html",
+      "dependencies": []
+    },
+    "이지유에 대하여/온이프 그곳은 대체 무얼 하는 곳일까?.md": {
+      "modifiedTime": 1732849070947,
+      "sourceSize": 186,
+      "exportedPath": "이지유에-대하여/온이프-그곳은-대체-무얼-하는-곳일까/온이프-그곳은-대체-무얼-하는-곳일까.html",
+      "dependencies": []
+    },
+    "이지유에 대하여/이지유란 무엇인가?.md": {
+      "modifiedTime": 1732849070947,
+      "sourceSize": 438,
+      "exportedPath": "이지유에-대하여/이지유란-무엇인가/이지유란-무엇인가.html",
+      "dependencies": []
+    },
+    "Excalidraw/Drawing 2024-11-29 10.45.04.excalidraw.md": {
+      "modifiedTime": 1732849070947,
+      "sourceSize": 2712,
+      "exportedPath": "excalidraw/drawing-2024-11-29-10.45.04.excalidraw.html",
+      "dependencies": []
+    },
+    "Mappers Project/팀 맵퍼스.md": {
+      "modifiedTime": 1732849070947,
+      "sourceSize": 246,
+      "exportedPath": "mappers-project/팀-맵퍼스.html",
+      "dependencies": []
+    },
+    "Mappers Project/폐의약품 문제 개요.md": {
+      "modifiedTime": 1732849070947,
+      "sourceSize": 1078,
+      "exportedPath": "mappers-project/폐의약품-문제-개요.html",
+      "dependencies": []
+    },
+    "Mappers Project/폐의약품 문제 상황.md": {
+      "modifiedTime": 1732849070947,
+      "sourceSize": 878,
+      "exportedPath": "mappers-project/폐의약품-문제-상황.html",
+      "dependencies": []
+    },
+    "Mappers Project/폐의약품 문제 해결.md": {
+      "modifiedTime": 1732849070947,
+      "sourceSize": 929,
+      "exportedPath": "mappers-project/폐의약품-문제-해결.html",
+      "dependencies": []
+    },
+    "무제 파일.md": {
+      "modifiedTime": 1732849070947,
+      "sourceSize": 386,
+      "exportedPath": "무제-파일.html",
+      "dependencies": []
+    },
+    "무제 파일.canvas": {
+      "modifiedTime": 1732849070947,
+      "sourceSize": 218,
+      "exportedPath": "무제-파일.html",
       "dependencies": []
     }
   }
