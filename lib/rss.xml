@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Mappers]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.png</url><title>Mappers</title><link></link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Fri, 29 Nov 2024 02:45:26 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Fri, 29 Nov 2024 02:45:25 GMT</pubDate><ttl>60</ttl><dc:creator></dc:creator><item><title><![CDATA[내가 생각하는 Ai의 속성]]></title><description><![CDATA[ 
+ <br>
+<br>느낀점
+<br>발견한 특성
+<br>본인의 경험 중 가장 유용했던 점 / 혹은 정반대의 경험
+<br>"Ai에 따라 이해가 쉬운 언어모델이 특정되어 있다는 점?"<br>
+"중간에 오타가 나거나, 어지럽게 말해도 결국엔 자신의 방식으로 이해해서 답을 도출해주는 것 - 장점이자 단점"<br>
+"사용자에게 답변을 해야한다라는 강박인지, 없는 사실이더라도 답을 도출해서 줌 -&gt; Cross Check가 계속 강조되는 이유"]]></description><link>툴킷랩_toolkit/ai/내가-생각하는-ai의-속성.html</link><guid isPermaLink="false">툴킷랩_ToolKit/Ai/내가 생각하는 Ai의 속성.md</guid><pubDate>Fri, 15 Nov 2024 00:57:25 GMT</pubDate></item><item><title><![CDATA[내가 쓰는 Ai의 방식]]></title><description><![CDATA[ 
+ <br>
+<br>나는 어떤 방식으로 Ai와 상호작용할까?
+<br>어떤 유형의 문장으로 대화할까?
+<br>"~것들을 토대로 ~한 것을 만들어줘"<br>
+"나는 ~한 사람인데, 이번에 ~것을 하게 되었어. 이걸 할 때 있어서 내가 신경쓰거나 더 집중해야 할 포인트가 있을까?"]]></description><link>툴킷랩_toolkit/ai/내가-쓰는-ai의-방식.html</link><guid isPermaLink="false">툴킷랩_ToolKit/Ai/내가 쓰는 Ai의 방식.md</guid><pubDate>Fri, 15 Nov 2024 00:57:17 GMT</pubDate></item><item><title><![CDATA[인터뷰하기]]></title><description><![CDATA[ 
+ <br>
+<br>개인의 경험을 더 끌어내기 위해 인터뷰 진행하기
+<br>남들과는 구분이 되는 나만의 Ai 사용 경험
+<br>"Ai 뭐뭐 사용하세요?"<br>
+"ChatGPT-4, Midjourney, Perplexity, Napkin Ai, Claud"<br>
+"뭐야 그정도면 본인이 Ai 아니세요?"<br>"왜 사용하세요? 어떤 목적으로?"<br>
+"주로 프로젝트, 보고서 작성, 자료 조사 정도로 사용합니다"<br>"솔직히 Ai 관련해서 돈 내는 거 아깝다고 생각하지 않나요?"<br>
+"Ai를 사용하면 일의 효율 자체가 다르고, 제 금과 같은 시간을 아낄 수 있다보니 전 아깝다고 생각하지 않습니다"<br>"Ai 뭐뭐 사용하세요?"<br>
+"GPT 하나요"<br>"어떤 용도로?"<br>
+"맞춤법, 문장 구성, 보고서, 단어 찾기, 요약-설명 + 가끔 아이디어"<br>
+"왜 사용하세요?"<br>
+"대부분 Ai가 틀이라는 형식에 맞춰진 방식으로 이용해서 그게 가장 객관적인 용도로 적용되어있기에 그런 것 같아요"<br>"앞으로 다른 Ai들은 안쓰실 건가요?"<br>
+"쓸건데, 뭐가 있는지를 먼저 알아야 할 것 같아요"<br>
+"저는 클로드, 퍼플리시티 추천드려요"]]></description><link>툴킷랩_toolkit/ai/인터뷰하기.html</link><guid isPermaLink="false">툴킷랩_ToolKit/Ai/인터뷰하기.md</guid><pubDate>Fri, 15 Nov 2024 01:07:33 GMT</pubDate></item><item><title><![CDATA[Ai]]></title><description><![CDATA[ 
+ <br><a data-href="내가 쓰는 Ai의 방식" href="툴킷랩_toolkit/ai/내가-쓰는-ai의-방식.html" class="internal-link" target="_self" rel="noopener nofollow">내가 쓰는 Ai의 방식</a><br>
+<br>나는 어떤 방식으로 Ai와 상호작용할까?
+<br>어떤 유형의 문장으로 대화할까?
+<br>"~것들을 토대로 ~한 것을 만들어줘"<br>
+"나는 ~한 사람인데, 이번에 ~것을 하게 되었어. 이걸 할 때 있어서 내가 신경쓰거나 더 집중해야 할 포인트가 있을까?"<br><br><a data-href="내가 생각하는 Ai의 속성" href="툴킷랩_toolkit/ai/내가-생각하는-ai의-속성.html" class="internal-link" target="_self" rel="noopener nofollow">내가 생각하는 Ai의 속성</a><br>
+<br>느낀점
+<br>발견한 특성
+<br>본인의 경험 중 가장 유용했던 점 / 혹은 정반대의 경험
+<br>"Ai에 따라 이해가 쉬운 언어모델이 특정되어 있다는 점?"<br>
+"중간에 오타가 나거나, 어지럽게 말해도 결국엔 자신의 방식으로 이해해서 답을 도출해주는 것 - 장점이자 단점"<br>
+"사용자에게 답변을 해야한다라는 강박인지, 없는 사실이더라도 답을 도출해서 줌 -&gt; Cross Check가 계속 강조되는 이유"<br><br><a data-href="인터뷰하기" href="툴킷랩_toolkit/ai/인터뷰하기.html" class="internal-link" target="_self" rel="noopener nofollow">인터뷰하기</a><br>
+<br>개인의 경험을 더 끌어내기 위해 인터뷰 진행하기
+<br>남들과는 구분이 되는 나만의 Ai 사용 경험
+<br>"Ai 뭐뭐 사용하세요?"<br>
+"ChatGPT-4, Midjourney, Perplexity, Napkin Ai, Claud"<br>
+"뭐야 그정도면 본인이 Ai 아니세요?"<br>"왜 사용하세요? 어떤 목적으로?"<br>
+"주로 프로젝트, 보고서 작성, 자료 조사 정도로 사용합니다"<br>"솔직히 Ai 관련해서 돈 내는 거 아깝다고 생각하지 않나요?"<br>
+"Ai를 사용하면 일의 효율 자체가 다르고, 제 금과 같은 시간을 아낄 수 있다보니 전 아깝다고 생각하지 않습니다"<br>"Ai 뭐뭐 사용하세요?"<br>
+"GPT 하나요"<br>"어떤 용도로?"<br>
+"맞춤법, 문장 구성, 보고서, 단어 찾기, 요약-설명 + 가끔 아이디어"<br>
+"왜 사용하세요?"<br>
+"대부분 Ai가 틀이라는 형식에 맞춰진 방식으로 이용해서 그게 가장 객관적인 용도로 적용되어있기에 그런 것 같아요"<br>"앞으로 다른 Ai들은 안쓰실 건가요?"<br>
+"쓸건데, 뭐가 있는지를 먼저 알아야 할 것 같아요"<br>
+"저는 클로드, 퍼플리시티 추천드려요"]]></description><link>툴킷랩_toolkit/ai/ai.html</link><guid isPermaLink="false">툴킷랩_ToolKit/Ai/Ai.md</guid><pubDate>Fri, 15 Nov 2024 01:07:23 GMT</pubDate></item><item><title><![CDATA[Ollama Ai]]></title><description><![CDATA[ 
+ <br><a data-href="Ai" href="툴킷랩_toolkit/ai/ai.html" class="internal-link" target="_self" rel="noopener nofollow">Ai</a><br>
+<br>새롭게 느낀 점이 있나요?
+<br>어떤 특성을 관찰했나요?
+<br>| "매우 интерес한 질문입니다!" 와 같이 언어모델이 완벽하지 않다<br>
+| 한국의 라면 중 가장 매운 라면 리스트업을 요청했는데, 리스트업 된 라면들 중 실제 라면은 단 하나도 없었다<br>
+| 구라를 너무 자연스럽게 친다<br>나: 한국에서 가장 매운 라면을 리스트업 해줘, 스코빌지수도 계산해서<br>Ollama: 매우 интерес한 질문입니다.<br>
+한국에서 가장 매운 라면을 리스트업 하려면, 다양한 라면 브랜드와 제품을 비교해야 합니다. 매운맛은 개인의 감각에 따라 다를 수 있지만, 일반적으로 스코빌지수(Scoville Heat Unit, SHU)를 기준으로 라면의 맵니스 수준을 측정할 수 있습니다.<br>
+다음은 한국에서 판매되는 몇 가지 대표적인 매운 라면과 그들의 스코빌지수입니다.<br>
+<br>한라장의 "고추장 라면"
+<br>
+<br>스코빌지수: 10,000 SHU - 20,000 SHU
+<br>고춧가루와 한라장을 사용해 만든 라면으로, 맵스러운 맛과 함께 고기 향이 나옵니다.
+<br>
+<br>삼립의 "고추장 라면"
+<br>
+<br>스코빌지수: 5,000 SHU - 10,000 SHU
+<br>고춧가루를 사용한 라면으로, 매운맛과 함께 고기 향이 있습니다.
+<br>
+<br>신라면의 "매운 라면"
+<br>
+<br>스코빌지수: 2,500 SHU - 5,000 SHU
+<br>고춧가루와 신선한 고추를 사용해 만든 라면으로, 매운맛과 함께 향이 있습니다.
+<br>
+<br>인스턴트 라면 브랜드 "제비의 "매운 라면"
+<br>
+<br>스코빌지수: 1,500 SHU - 2,500 SHU
+<br>고춧가루와 레몬 가스를 사용해 만든 라면으로, 매운맛과 함께 상쾌한 향이 나옵니다.
+<br>주의: 위의 리스트업된 라면들의 스코빌지수는 각각의 제품에 따라 다를 수 있습니다. 또한, 개인의 감각에는 변동성이 있으므로, 실제로 맛본 후 다시 비교해 보시는 것을 추천합니다!위의 정보가 도움이 되셨나요?]]></description><link>툴킷랩_toolkit/ai/ollama-ai.html</link><guid isPermaLink="false">툴킷랩_ToolKit/Ai/Ollama Ai.md</guid><pubDate>Fri, 15 Nov 2024 02:12:36 GMT</pubDate></item><item><title><![CDATA[11월 5일 저널링]]></title><description><![CDATA[ 
+ <br>게임을 직접 만들어서 테스트 해보는 것, 그리고 피드백 받아 수정&amp;추가 할 부분들을 생각해내는 것<br>기존에 해보지 못했던 경험을 해본다는 것에서의 흥미, 재미<br><a data-href="툴킷랩 저널링" href="툴킷랩_toolkit/툴킷랩-저널링.html" class="internal-link" target="_self" rel="noopener nofollow">툴킷랩 저널링</a>]]></description><link>툴킷랩_toolkit/11월-5일-저널링.html</link><guid isPermaLink="false">툴킷랩_ToolKit/11월 5일 저널링.md</guid><pubDate>Fri, 08 Nov 2024 02:34:33 GMT</pubDate></item><item><title><![CDATA[11월 6일 저널링]]></title><description><![CDATA[ 
+ <br>행동 게임 제작<br>멋진 신세계<br>
+<br>알파(Alpha)&nbsp;
+<br>베타(Beta)
+<br>감마(Gamma)
+<br>델타(Delta)
+<br>엡실론(Epsilon)
+<br>뮤(Mu)
+<br>게임규칙<br>
+<br>신분 카드를 모드에게 지급합니다.<br>
+신분 카드의 종류는 알파, 베타, 감마, 델타, 엡실론, 뮤
+<br>선정된 알파는 뮤를 제외한 모두의 신분 카드를 다시 걷고, 지정할 수 있습니다.
+<br>알파-베타-감마-델타-엡실론-뮤-알파 의 순서로 둥글게 둘러 앉습니다.
+<br>신분의 순서대로 명령을 합니다. (너무 수위 높은 명령 불가)
+<br>뮤 -&gt; 알파에게까지 명령이 끝나면 사회자를 기준으로 전체 가위바위보를 진행합니다.
+<br>가위바위보에서 이긴 사람은 자신보다 윗 등급인 사람에게 도전을 할 수 있습니다.<br>
+Ex. 델타가 전체 가위바위보에서 승리 -&gt; 감마에게 도전 가능
+<br>도전은 가위바위보로 진행되며, 도전자는 두번 이겨야 하고, 방어자는 한번만 이겨도 충분합니다.
+<br>Mu의 명령은 리스트가 정해져있습니다.<br>승리조건<br>
+Alpha, Beta - 자신의 신분을 3턴동안 지켜내야 합니다.<br>
+Gamma, Delta, Epsilon - Alpha와 Beta가 되어 두턴동안 자리를 지켜야 합니다.<br>
+Mu - 모든 사람이 승급하지 않고 2턴이 지날 시 승리<br>의도감정<br>
+Alpha, Beta - 멸시, 우월감<br>
+Gamma, Delta, Epsilon - 시기, 열등감<br>
+Mu - 재미<br>알파 | 1명<br>
+베타 | 1명<br>
+감마 | 1명<br>
+델타 | 1명<br>
+엡실론 | 3명<br>
+뮤 | 1명<br>회고<br>
+<br>우선 굉장히 재미있었습니다. 어떠한 행동을 목표로 디자이너가 게임을 만드는 원리와 관점들을 경험해볼 수 있었습니다. 
+<br>기존에 즐겁게 경험해보았던 게임, 혹은 소설을 모티브로 하여 참여자들이 여러가지의 감정을 느끼게 하는 것을 목표로 하였고, 실제로 이가 잘 수행될 수 있을 것 같아 기대도 됩니다.
+<br><a data-href="툴킷랩 저널링" href="툴킷랩_toolkit/툴킷랩-저널링.html" class="internal-link" target="_self" rel="noopener nofollow">툴킷랩 저널링</a>]]></description><link>툴킷랩_toolkit/11월-6일-저널링.html</link><guid isPermaLink="false">툴킷랩_ToolKit/11월 6일 저널링.md</guid><pubDate>Fri, 08 Nov 2024 02:33:13 GMT</pubDate></item><item><title><![CDATA[11월 7일 저널링]]></title><description><![CDATA[ 
+ <br>어제 만들었던 &lt;안멋진 신세계&gt;를 플레이 테스트 해본 결과, 실수한 부분들을 발견할 수 있었습니다. 툴킷, 게임이라 하면 어떠한 행동을 의도해야 하지만, 현재 저희가 만들었던 게임은 플레이어의 감정을 유도했습니다. 그렇다보니 디자이너의 의도대로 게임이 흘러가지 못하였고 플레이어들도 큰 재미를 느끼지 못했습니다.<br>벌칙을 행동으로 생각하였을 때, 자고로 벌칙이 재미있는 이유는 “내가 아니기 때문”인데 그 행동을 해야하는 주체가 신분으로 이루어져있고, 내가 벌칙을 받아야 한다라는 상황이 되었을 때 기분이 부정적으로, 안좋게 흘러갈 수 밖에 없다라는 것을 알게 되었습니다.<br>생각보다 툴킷이라는 것의 작동원리와 결과를 직접 테스트해보고 측정해보니 결코 간단한 것이 아니라는 생각이 들었습니다.&nbsp;<br>툴킷이란?<br>
+사용자가 의도적으로 설계된 현실의 문제 상황에 참여하여 그 과정에서 측정 가능한 결과물을 만들어내는 시스템 | 디자이너의 의도 | 꼭 점수가 아니더라도 이 측정이라는 것에서 알 수 있게 하는 요소들이 있을 것이고<br>게임이란?<br>
+플레이어가 규칙으로 만들어진 가상의 갈등 구조에 참여하여 그 과정에서 측정 가능한 결과물을 만들어내는 시스템<br>
+무언가 활동에 참여하려면 “안전하다” 라는 믿음이 필요하다. 그리고 sense of control, 통제감을 준다는 것이 필요하다. 적극적인 활동에 있어서는 더더욱<br><a data-href="툴킷랩 저널링" href="툴킷랩_toolkit/툴킷랩-저널링.html" class="internal-link" target="_self" rel="noopener nofollow">툴킷랩 저널링</a>]]></description><link>툴킷랩_toolkit/11월-7일-저널링.html</link><guid isPermaLink="false">툴킷랩_ToolKit/11월 7일 저널링.md</guid><pubDate>Fri, 08 Nov 2024 02:34:24 GMT</pubDate></item><item><title><![CDATA[11월 8일 저널링]]></title><description><![CDATA[ 
+ <br>픽센크님과 함께 구글에 여러 툴들에 확장 프로그램으로 Ai를 넣어서 사용해보았고, 굉장히 흥미로웠습니다. 어떤 툴에 들어가냐가 그 툴의 속성과 Ai의 효과를 잘 경험해볼 수 있었던 것 같습니다.<br>또한 옵시디언이라는 툴을 통해 분산적 쓰기를 경험해보았는데, 굉장히 혁신적인 툴이었던 것 같습니다. 아직까지 노션보단 쓰기가 익숙하지 않지만..서도<br><a data-href="툴킷랩 저널링" href="툴킷랩_toolkit/툴킷랩-저널링.html" class="internal-link" target="_self" rel="noopener nofollow">툴킷랩 저널링</a>]]></description><link>툴킷랩_toolkit/11월-8일-저널링.html</link><guid isPermaLink="false">툴킷랩_ToolKit/11월 8일 저널링.md</guid><pubDate>Fri, 08 Nov 2024 09:52:19 GMT</pubDate></item><item><title><![CDATA[11월 11일 저널링]]></title><description><![CDATA[ 
+ <br><a data-href="툴킷랩 저널링" href="툴킷랩_toolkit/툴킷랩-저널링.html" class="internal-link" target="_self" rel="noopener nofollow">툴킷랩 저널링</a><br>[Card Game]<br>
+피터공께서 가져와주신 게임을 하며 사람들에게 기존에 알고 있던 친숙한 요소를 사용하는 것, 그것을 가지고 사람들이 이머전스를 만들어내는 것들을 볼 수 있었습니다.<br>[RACE]<br>
+||Abstraction : A지점에서 B지점으로 이동||<br>
+||Core Mechanics : A지점에서 B지점으로 가장 빨리 이동||<br>[Emergence]<br>
+||Emergence is necessary in games.||<br>
+|이머전스는 게임에 꼭 필요하다.|<br>
+||It creates uncertainty.||<br>
+|이머전스는 불확실성을 만든다.|<br>
+||Emergence is linked to the space of possibility of a game.||<br>
+|이머전스는 게임의 가능성의 공간과 연결되어 있다.|<br>
+||Emergence ensures that a game is re-playable because the game offers a same-but-different experience.||<br>
+|이머전스는 게임의 반복플레이를 가능하게 한다, 게임은 같지만-다른-경험을 제공하기 때문이다.|<br>기존에는 이머전스가 변수인 줄 알았는데 창출과 같은 조금은 다른 개념이라고 말씀하시더라구요.<br>[동화책]<br>
+동화책을 베이스로 툴킷을 만드는 것이 이번주의 미션이 되었고, 여러 동화책의 스토리들을 훑어서 후보군을 정하며 그 안에 있는 스토리라인을 어떻게 활용할지를 고민하는 시간이 되었습니다.]]></description><link>툴킷랩_toolkit/11월-11일-저널링.html</link><guid isPermaLink="false">툴킷랩_ToolKit/11월 11일 저널링.md</guid><pubDate>Mon, 11 Nov 2024 02:41:56 GMT</pubDate></item><item><title><![CDATA[11월 12일 저널링]]></title><description><![CDATA[ 
+ <br><a data-href="툴킷랩 저널링" href="툴킷랩_toolkit/툴킷랩-저널링.html" class="internal-link" target="_self" rel="noopener nofollow">툴킷랩 저널링</a><br>콩쥐팥쥐 게임<br>콩쥐 - 선<br>
+팥쥐 - 악<br>권선징악 (선함을 권하고, 악함을 벌한다)<br>
+ㄴ 근데 왜 항상 악이 벌을 받아야 하고, 선이 행복해야 해?<br>
+ㄴ 팥쥐도 행보할 수 있잖아<br>
+-&gt; [팥쥐도 행복할 수 있는 가능성을 주는 프로젝트]<br>소, 돼지 : 유리판 게임 - 서로의 판에 지뢰를 심고, 결승선에 먼저 간 사람이 승리<br>
+두꺼비 : 항아리에 5개 구멍이 있고, 각각 3번의 기회를 가지고 (콩쥐는 보수, 팥쥐는 부숨) 서로 모르는 상태에서 항아리를 부수거나 보수함<br>
+참새 : 탁구공과 종이컵 게임 -&gt; 진행자가 벼 있는 컵, 벼 없는 컵을 나누어서 배치하고 더 많이 넣는 사람이 승리<br>
+선녀, 도깨비 : 짝 맞추기 카드게임 - 16개<br>준비물 : A4 용지 2장, 항아리 그림 2장, 탁구공 3개 - 종이컵 6개<br>소, 돼지 : 홍수 왔을 때 앞으로 전진<br>
+두꺼비 : 상대방에게 홍수를 일으켜 전진 불가<br>
+참새 : 1칸 앞으로 전진<br>
+선녀, 도깨비 : 선녀는 1턴 방어, 도깨비는 1턴 뒤로 이동시키고 앞 길을 다시 섞음<br>마지막에 돌다리에서 먼저 도착하는 사람이 우승자<br>생각보다 어떠한 목적을 가진 툴킷을 만든다라는 것이 어려운 것 같습니다.. 감정이 아닌 행동을 유도한다라는 디자이너의 의도도 마찬가지였습니다.]]></description><link>툴킷랩_toolkit/11월-12일-저널링.html</link><guid isPermaLink="false">툴킷랩_ToolKit/11월 12일 저널링.md</guid><pubDate>Tue, 12 Nov 2024 03:15:07 GMT</pubDate></item><item><title><![CDATA[11월 13일 저널링]]></title><description><![CDATA[ 
+ <br><a data-href="툴킷랩 저널링" href="툴킷랩_toolkit/툴킷랩-저널링.html" class="internal-link" target="_self" rel="noopener nofollow">툴킷랩 저널링</a><br>각 팀마다 동화 콩쥐팥쥐를 모티브로 하여, 그 안에서 스토리라인을 뽑아 보드게임(툴킷)으로 만드는 활동을 하였습니다. 어제 하던 것과 이어서 추가 1시간동안 게임을 다시 만들고, 플레이 테스팅을 마친 이후에 진행하였습니다.<br>피드백으로는 신선하고, 재미있었지만 미니게임 4~5개로 이루어져있다라는 점에서 디자이너에게 메카닉을 많이 써서 도전이었지만 친근한 것들로 잘 구성해서 잘 넘겼다고 하셨고, 스토리라인의 경우는 게임 내에서 잘 사용하였지만.<br>
+"팔쥐가 행복해진다" 라는 것이 실현되는 점에서는 좀 부족한 점이 있었다라고 들었습니다.<br>저희 팀이 아닌 다른 팀이 만든 툴킷들도 체험해보았는데, 생각보다 잘 짜여있고 재밌었습니다. 다만 아쉬운 점은 게임의 구성 안에서 '공정'과 '주관적, 객관적'은 굉장히 큰 영향력이라는 점을 계속해서 상기하게 됩니다.]]></description><link>툴킷랩_toolkit/11월-13일-저널링.html</link><guid isPermaLink="false">툴킷랩_ToolKit/11월 13일 저널링.md</guid><pubDate>Wed, 13 Nov 2024 03:25:29 GMT</pubDate></item><item><title><![CDATA[11월 14일 저널링]]></title><description><![CDATA[ 
+ <br><a data-href="툴킷랩 저널링" href="툴킷랩_toolkit/툴킷랩-저널링.html" class="internal-link" target="_self" rel="noopener nofollow">툴킷랩 저널링</a><br>
+남은 한 팀의 '여우누이' 동화 모티브의 툴킷을 체험해보았고, 체험에서 느낀 점은 따로 없었지만 가장 큰 성과 중 하나는 툴킷 문서화를 경험해본 점인 것 같습니다.<br>콩쥐팥쥐 동화 툴킷<br>
+<br>툴킷의 의도 : 선택한 동화의 의도 설명<br>
+이번 툴킷의 베이스가 된 동화는 콩쥐팥쥐입니다. 기존의 콩쥐팥쥐는 ‘권선징악(선함을 권하고, 악함을 벌한다)’의 메시지를 담고 있지만, 저희는 “왜 꼭 악은 벌을 받고 선은 행복해야 하는가?”라는 의문을 통해 팥쥐에게도 행복할 가능성을 열어주는 새로운 프로젝트로 접근했습니다. 콩쥐와 팥쥐의 이야기를 재해석하여 둘 모두가 각자의 방식으로 행복해질 수 있는 서사를 만들어보고자 하였고, 이를 다양한 미니게임으로 풀어내어 콩쥐팥쥐의 이야기를 게임 형태로 체험하게 하는 것을 목표로 했습니다.
+<br>장단점 명령어<br>
+[장점:<br>
+[- 콩쥐팥쥐를 재해석하여 새로운 스토리를 만들 수 있습니다.<br>
+[- 다양한 미니게임을 통해 콩쥐팥쥐의 이야기를 게임 형태로 체험할 수 있습니다.<br>
+[단점:<br>
+[- 기존의 콩쥐팥쥐의 메시지를 바꾸는 것이 어렵고, 새로운 스토리가 기존 팬들에게 받아들여지지 않을 가능성이 있습니다.<br>
+[- 다양한 미니게임을 통해 이야기를 전달하는 것이 복잡하고, 사용자들이 쉽게 이해하지 못할 수 있습니다.️<br>맞춤법 명령어<br>
+[다음과 같이 맞춤법을 수정하였습니다. 콩쥐와 팥쭈의 이야기(팥쭈는 팥쥐)를 재해석하여 둘 모두가 각자의 방식으로 행복해질 수 있는 서사를 만들어보고자 하였고, 이를 다양한 미니게임으로 풀어내어 콩쥐팥쭈의 이야기(콩쭈와 팥쭈)는 게임 형태로 체험하게 하는 것을 목표로 했습니다.️]<br>쉬운문장 명령어<br>
+[콩쥐팥쥐 이야기에서, 나쁜 행동을 한 사람도 좋은 결과를 얻는 것을 보여주고 싶습니다.]️<br>요약 명령어<br>
+[콩쥐팥쥐 동화의 의도는 "왜 꼭 악은 벌을 받고 선은 행복해야 하는가?"라는 의문을 통해 팥쥐에게도 행복할 가능성을 열어주는 새로운 프로젝트입니다.️]<br>
+<br>툴킷의 사용법 : 툴킷 (동화 게임을 플레이 할 수 있는 매뉴얼)<br>
+게임 개요:<br>
+콩쥐와 팥쥐의 대결 구도로, 콩쥐는 ‘선’, 팥쥐는 ‘악’을 상징하며 각각의 게임을 통해 4가지의 미니 게임을 수행하고 마지막 5라운드에서 결승게임을 진행합니다. 각 미니게임에서 얻은 스킬카드로 마지막 라운드에서 돌다리를 먼저 건너게 되는 캐릭터가 승리합니다.&nbsp;<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXePqB-QzHogPEAhdHXW_JmN5pdsEzrwRUzfrQqWJ9bjHoROcrjkv7quML5r2ojladv3zIWHVTtJxL6PZtcRcAZrqI7hQe4d1VaGi9idOV6JkVmN1vzUZg5MLwLokLmjuM4IramGNQ?key=ZlCkCTC6j8pUus-0OnQagUI_" referrerpolicy="no-referrer">
+<br><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXey69VX9PKvGZJiMG6ORLz-BPQSodvT_QQkPcKCBlB5Hks8MmVH8mb7unkH2AWyxX4MGURiTVTGJMJFeu5eWn2Xp2wBUTvdBR_CmIbhlFPFufw7TFrA1IvTeu8HKnvIGlLvUcCKUw?key=ZlCkCTC6j8pUus-0OnQagUI_" referrerpolicy="no-referrer"><br>미니게임 구성 및 규칙:<br>
+Round 1: 소, 돼지 밭 가꾸기 게임 (유리판 게임): 서로의 판에 자갈을 심어 결승선에 쉽게 도착하지 못하게 방해를하고 먼저 결승선에 도착하는 사람이 승리합니다. 게임 진행은 가위바위보로 공수를 선정해 돌아가면서 게임을 진행합니다.&nbsp;<br>1: 한명씩 밭 게임판을 받고 일반 땅 카드와 자갈 카드를 5개씩 받습니다.<br>
+2: 각자 받은 게임판의 빈칸 위에 땅 카드 혹은 자칼 카드를 뒤집어 상대가 어떤 카드인지 모르게 올려 놓습니다.&nbsp;<br>
+<br>동물들이 이 밭 위를 지나가게 되는데요.&nbsp;<br>
+
+<br>그 상황에서 상대방의 동물이 자갈에 걸려 앞으로 가지 못하게 해야합니다.&nbsp;<br>
+
+<br>그리고 꼭 땅카드와 자갈 카드 1개씩 배치해야 합니다.&nbsp;<br>
+
+<br>3: 가위바위보를 하여 턴을 지정하고 이긴 사람부터 한턴씩 양자택일을 해 자갈을 피해 밭을 매웁니다.&nbsp;<br>
+4: 자갈에 걸리게 되면 한턴 쉬게 되며 먼저 결승선에 들어가면 승리하고 승리한 사람이 두꺼비 스킬카드를 가져갑니다.&nbsp;<br><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXc-5KPiaja90C7A1aUanssXMZ7ZLGBJNX6vowzHAtWvByJ2CTfxSkjEmHbmsVkHdTTyS0FFGgFqN4wq9ZJt3UNce6Oh00EQ4vEg2hsDcIMmMO3_KBnLS57XFsbBCxG7n71hNVxqmQ?key=ZlCkCTC6j8pUus-0OnQagUI_" referrerpolicy="no-referrer"><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcCeV0naJsq6GYxL-DDVEJbjvTexKxU0frADxPx0hKTHqmiDLGlAWcYeEqFHv5oFlxmz1uN31HMfxODOfyw83PkpMMH_ecZy0KU6B3ZDWE4U7hWjqv8vdopN6A_Y3K2vUKzWLfpMg?key=ZlCkCTC6j8pUus-0OnQagUI_" referrerpolicy="no-referrer"><br><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXceBhOwKjNp4HMSOOqLSj335TkW6Zmbxfpjmvi087RandHyUINSs7WAqKHru8VOtHjj36Qhy_3aZrJIZrpQ8Jjlky2Keifu2L_ceNjOdGcGrjj8p3BVE4GMEEJq4Ea0qiO-gtRKHw?key=ZlCkCTC6j8pUus-0OnQagUI_" referrerpolicy="no-referrer"><br>Round 2: 두꺼비 게임 (항아리 부수기/보수하기): 항아리에 다섯 개의 구멍이 있습니다. 콩쥐는 구멍을 보수할 수 있고, 팥쥐는 구멍을 파괴할 수 있습니다. 보수와 파괴는 서로가 모르는 숨겨진 상태에서 진행되며 보수, 파괴할 위치를 선정한 이후에 마지막에 서로가 선정한 위치를 공개하며 2곳 이상이 파괴 되었을 경우, 팥쥐의 승리로 간주된다.<br>
+<br>서로 안보이는 곳에 가, 항아리에 5개의 구멍에 각각 자갈과 망치를 놓을 위치를 정합니다.
+<br>자리로 돌아와 5개의 구멍중 서로 어디에 두꺼비와 망치를 놓았는지 말합니다.
+<br>5개의 구멍중 망치를 놓은 곳과 두꺼비를 배치한 곳중 2개가 일치한다면 두꺼비의 승리, 만약 2곳이 일치하지 않다면 망치의 승리입니다.
+<br><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcVR_ztrA_USmuvvXXz7ZyKmiPN_CP211RzfqXpyz_4KAR8H5WKGvv3vwr7kezxtQ7pm_MAdECRYHLehxaKQbiaUqClLkMNrx13o6c8dyRAflq4TEgEZNU2brAV_2Gszp9vhHT4?key=ZlCkCTC6j8pUus-0OnQagUI_" referrerpolicy="no-referrer">
+<br>이긴 사람에게 능력 카드를 부여합니다.
+<br>Round 3: 참새 게임 (탁구공과 종이컵 게임): 진행자가 벼 있는 종이컵과 벼 없는 종이컵을 삼각형으로<br>
+배치한 후, 탁구공을 바닥에 튕기어 넣어 3개의 탁구공 중 더 많은 공을 벼가 있는 종이컵에 넣는 사람이 승리합니다.<br><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcPCgvaQSTHNYL4KG3yM0swrNzy8asjuiHEV9yCkMq9gN1eCs8flL6m3WnEhXOLD2WFylDtmNr1QmGXMdYOGm07EOh7PZ5j-AcNnHCM2C9LXExHGaswh-EaL9fVytJhaJqk25ak7w?key=ZlCkCTC6j8pUus-0OnQagUI_" referrerpolicy="no-referrer"><br>
+<br>종이 컵 6개를 준비합니다.
+<br>컵 열개 중 세개에 벼가 들어가있습니다.
+<br>탁구공을 바닥에 튕기어 넣어 벼가 들어간 종이컵에 넣습니다.
+<br>총 기회는 3번, 이 중 벼가 들어간 컵에 탁구공을 가장 많이 넣은 사람이 승리하게 됩니다.
+<br>승리한 사람은 참새 스킬 카드를 가져갑니다.
+<br>Round 4: 선녀와 도깨비 게임 (짝 맞추기 카드게임): 총 18장의 카드로 옷 짝 맞추기 게임을 진행합니다. 게임 진행은 모두 카드를 뒤집에 놓은 상태에서 2개씩 뒤집으며 짝을 맞추며 게임을 진행하게 되고, 콩쥐는 빨간옷 3세트(저고리, 치마, 꽃신), 팥쥐는 파란옷 3세트(저고리, 치마, 꽃신)의 짝을 모두 먼저 맞추면 승리합니다.<br>
+<br>
+가위바위보로 순서를 지정해 돌아가면서 진행합니다.
+
+<br>
+&nbsp;자신의 턴에 총 2개의 종이를 뒤집어 확인할 수 있습니다.&nbsp;
+
+<br>
+뒤집었을 시에 자신이 찾고자 하는 물품이면서 2개가 짝이 맞다면 가져오시면 됩니다.
+
+<br>
+콩쥐가 찾아야 하는 옷은 빨간 옷 세트, 팥쥐가 찾아야 하는 옷은 파란 옷 세트 입니다.
+
+<br>
+그렇게 총 3개의 옷 세트를 먼저 찾아 가져오면 승리하게 되며 콩쥐가 승리할 시에는 선녀 스킬카드를 팥쥐가 승리할 경우에는 도깨비 스킬 카드를 가져가게 됩니다.&nbsp;<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXf-JreGG3OVQuw7KWlD4vbaUG3tCP7qDS0rmZwJdvHSOPjDV77rW04dgcm-t2Qi-jnziIWJQEcN-4XkjBp0xWx7Ex5C3lxtQ94VF1JwYi5vhauyJS49aOwdIVpk7YrR1Wl-kq7hoA?key=ZlCkCTC6j8pUus-0OnQagUI_" referrerpolicy="no-referrer">
+
+<br>Round 5: 마지막 돌다리 게임입니다. 지금까지 라운드 마다 승리해서 얻은 스킬 카드들을 사용해 먼저 강 건너편으로 이동하면 승리하는 게임입니다. 게임 도중에는 상대방을 방해할 수 있는 기존에 얻은 스킬카드들을 사용할 수 있습니다. 먼저 강 건너에 도착하면 승리합니다.&nbsp;<br>
+<br>
+가위바위보로 순서를 정합니다.
+
+<br>
+이긴 사람이 한칸씩 앞으로 전진합니다.&nbsp;
+
+<br>
+변수: 지금까지 매 라운드 마다 얻은 스킬 카드를 5라운드 돌다리 건너기 게임에서 사용할 수 있습니다.&nbsp;
+
+<br>
+먼저 돌다리를 건넌 사람이 승리하게 됩니다.
+
+<br>게임 진행은 가위바위보로 진행되며, 승리 시 한칸 전진입니다. 아무리 미니게임을 많이 승리하였더라도 운에 따라 승패가 결정될 수 있습니다.<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfhpZYWC7GP-L7tnK7jLOhHvNyKNnZjsX3xF1dU2jmlUHmv6oFfExLPPUkUG2FK7u7FGZhewLU79VjozIkDDYnrWWvW5WL4sNf2jcwtkNM7j7knowi3RGMwNrja_Tbcq3pIxvPiHg?key=ZlCkCTC6j8pUus-0OnQagUI_" referrerpolicy="no-referrer"><br><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXeXvNdaYDjhFOmw4XigDXCsO0sROg5_lAL__3lgFwl4YVk69DkN7HoyhWlKDRKwWQIQqrcs3l8LhOvTN-ugU5oHer3y0Z6faTR_BsRRuNJyCgy7ueZo2usjUfC7wTyVn766uYAXJA?key=ZlCkCTC6j8pUus-0OnQagUI_" referrerpolicy="no-referrer"><br>
+<br>툴킷 테스트 기록 : 툴킷 테스팅 과정과 결과
+<br><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcMdFsbwQUS0fTVwnvvD0WO3nQgDYBB7J5hZzwFfHRiMQVQNf62eHLsehZDywvXQJdYpgQPJS0TV4nsz65S14jrzXYF4CngHVlfTW5KCSTzvx9E6jy7d8Hu4uGlyT3EHEYb8roqZQ?key=ZlCkCTC6j8pUus-0OnQagUI_" referrerpolicy="no-referrer"><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfbrYOqaLKhwbjcIPNiQccrv1HEB1raIcjagAZgYlKW2bs26zcSArPJSvRDJTh6S1v4MPVa-E4Ag5TfIxbB2rFKAtSbKpx5ju7yuBWhdNq0hRfuaYr939C5CCv-Zjw7G46al9pQBg?key=ZlCkCTC6j8pUus-0OnQagUI_" referrerpolicy="no-referrer"><br>
+<br>Play 관점
+<br>
+<br>“미니게임이 4~5개로 구성되어 있어 게임 자체가 신선하고 흥미로웠습니다.”
+<br>다만 각 미니게임이 콩쥐팥쥐의 이야기와 연결되는 부분에서 추가적인 설명이나 연계성이 강조되면 더욱 몰입감을 높일 수 있을 것 같습니다.”
+<br>“콩쥐팥쥐에서 우리가 바라보게 된 관점은 콩쥐도 행복하게 살 수 있잖아!. 라는 것이었는데 팥쥐에게 무언가 페널티가 있거나, 콩쥐에게 어드벤티지가 있었어야 했는데 없었다는게 조금 아쉬웠습니다.”
+<br>
+<br>디자인 의도 관점
+<br>
+<br>“‘팥쥐도 행복할 수 있는 가능성’이라는 주제를 반영하기 위해 시도했지만, 실제 게임 내에서 팥쥐가 행복해지는 결말을 구현하는 부분은 조금 부족했던 것 같다.”
+<br>
+<br>툴킷 회고 (개인)
+<br>나우_송하준<br>좋았던 점: 직접 동화 속 메시지를 게임으로, 툴킷으로 풀어내는 경험이 굉장히 신선하고 새로웠던 것 같습니다. 게임이든, 툴킷이든 만들어내는 것이 굉장히 어렵고 복잡한 것인 줄 알았는데 생각보다 아이디어를 도출해내고 이를 프로토타입으로서 만들어내는 과정은 누구나 해볼 수 있는 것 같다라는 생각이 들어 좋았던 것 같습니다.<br>아쉬웠던 점: 팥쥐가 행복해진다는 결말을 완성하는 데 있어 서사가 조금 부족하다는 점을 플레이어 뿐만 아니라 디자이너인 저도 느끼게 되어 아쉬웠습니다. 게임의 엔딩을 좀 더 명확히 하여, 플레이어가 동화를 다르게 재해석하는 경험을 느끼게 할 수 있도록 개선이 필요할 것 같습니다.<br>발견한 점: 공정성이 부각될 때, 훨씬 매력적이라는 점을 깨달은 것 같고, 미니게임이 굉장히 많은 게임이었는데 이것이 계속 또 다른 메카닉을 플레이어에게 제공하는 일종의 도전이지만.. 이 경우를 익숙한 게임들로 잘 승화시켜냈다라는 점을 피드백 때 깨닫게 되었습니다. 또한 다른 팀들의 툴킷을 체험해본 결과, 게임의 구성에 있어 ‘주관성/객관성’의 중요성을 다시금 느끼는 계기가 되었던 것 같습니다.<br>아트_정민석<br>아쉬웠던 점: 팥쥐도 행복할 수 있다. 라는 관점에서 시작하였지만 생각보다 판쥐가 받는 어드벤티지가 없었다. 그래서 조금 아쉬웠던 것 같다. 물론 고민을 안해본건 아니지만 플레이를 진행해 보면서 더 느낀것 같다. 둘의 차이점이 크지 않았다는 것이.&nbsp;<br>발견한 점: 새롭게 발견하게 된 것은 코어 매카닉이 매 판마다 다른 것도 유용하게 쓰일 수 있구나, 라는 것을 새롭게 알게 되었다.&nbsp;<br>느티_김민승<br>좋았던 점: 나의 몫까지 다 해줬다고 생각이 들 정도로 팀원들이 정말 열심히 해줘서 감사했다. 기획한 게임을 친구들이 재밌게 플레이 하는 것을 보고 보람찼다(?). 또, 각 팀마다 게임의 특징과 느낌에 팀원들의 개성이 묻어나와 재밌었습니다.<br>아쉬웠던 점:&nbsp;<br>발견한 점: ‘운’은 디자인할 수 없기에, 행동을 디자인해야 한다는 것이 계속 뇌리에 남는다.**]]></description><link>툴킷랩_toolkit/11월-14일-저널링.html</link><guid isPermaLink="false">툴킷랩_ToolKit/11월 14일 저널링.md</guid><pubDate>Fri, 15 Nov 2024 02:25:48 GMT</pubDate><enclosure url="https://lh7-rt.googleusercontent.com/docsz/AD_4nXePqB-QzHogPEAhdHXW_JmN5pdsEzrwRUzfrQqWJ9bjHoROcrjkv7quML5r2ojladv3zIWHVTtJxL6PZtcRcAZrqI7hQe4d1VaGi9idOV6JkVmN1vzUZg5MLwLokLmjuM4IramGNQ?key=ZlCkCTC6j8pUus-0OnQagUI_" length="0" type="false"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;https://lh7-rt.googleusercontent.com/docsz/AD_4nXePqB-QzHogPEAhdHXW_JmN5pdsEzrwRUzfrQqWJ9bjHoROcrjkv7quML5r2ojladv3zIWHVTtJxL6PZtcRcAZrqI7hQe4d1VaGi9idOV6JkVmN1vzUZg5MLwLokLmjuM4IramGNQ?key=ZlCkCTC6j8pUus-0OnQagUI_&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[11월 15일 저널링]]></title><description><![CDATA[ 
+ <br><a data-href="툴킷랩 저널링" href="툴킷랩_toolkit/툴킷랩-저널링.html" class="internal-link" target="_self" rel="noopener nofollow">툴킷랩 저널링</a><br>하루동안 굉장히 많은 것들을 배운 것 같습니다. 올라마 라고 하는 맥북 자체에서 사용할 수 있는 LLM(거대언어모델)에 대해 알게 되고, 직접 경험해보기도 하며 어떻게 해야 Ai와 잘 소통하고, 어떤 허점들이 존재하는지를 두 눈으로 확인 할 수 있는 시간이었던 것 같습니다. <br>그리고 그와 함께 지금까지의 저의 Ai 활용도, Ai 리터러시를 확인할 수 있었던 것 같습니다. 이와 함께 느꼈던 것이 앞으로는 Ai가 지금보다 더욱 발전하고, 인간의 많은 영역들을 대체할텐데 그만큼 Ai를 잘 활용하는 것도 하나의 능력일 것이고 직업군이 될 수도 있다라는 생각이 듭니다.<br>이번 툴킷랩 수업에서 배우는 이 LLM, Ai들을 열정적으로 배우며 툴킷랩이 끝나는 날에는 여러 매체들과 Ai 툴을 연결시켜서 사용할 수 있는 저를 기대합니다.]]></description><link>툴킷랩_toolkit/11월-15일-저널링.html</link><guid isPermaLink="false">툴킷랩_ToolKit/11월 15일 저널링.md</guid><pubDate>Fri, 15 Nov 2024 03:17:00 GMT</pubDate></item><item><title><![CDATA[11월 18일 저널링]]></title><description><![CDATA[ 
+ <br><a data-href="툴킷랩 저널링" href="툴킷랩_toolkit/툴킷랩-저널링.html" class="internal-link" target="_self" rel="noopener nofollow">툴킷랩 저널링</a><br>
+Being Faust<br>믿음<br>
+명예<br>
+사랑<br>가장 소중한 사람 5명을 순위대로<br>
+<br>어머니
+<br>아버지
+<br>동생
+<br>외할머니
+<br>막내이모할머니
+<br>어머니
+<br>아버지
+<br>동생
+<br>외할머니
+<br>막내이모할머니
+<br>뭔가 거부감이 느껴짐 -&gt; 다 소중한 사람인데 순위를 매겨야 한다라는 점<br>자기소개 툴킷을 어떤 맥락으로 만들지<br>
+-&gt; 서로 소개 -&gt; 자기소개<br>맥락의 구체화 : 학교 or 단체에서 어떠한 활동을 하기에 앞서 아이스브레이킹을 위한 활동<br>목적의 구체화 : 학교 or 단체에서 어떠한 활동을 할 때엔 서로 친한 친구들이 있기 마련, 친구끼리 서로를 소개해주며 자신도 몰랐던 자신의 모습을 알아가고, 틀린 부분은 정정하며 서로를 더욱 깊이 알아보고자 한다<br>툴킷의 디자인 : <br><br>
+<br>모든 학생or 사람들이 동그랗게 앉습니다.<br>
+중요한 점 : 동그랗게 앉아있을 때 양 옆의 사람은 자신이 조금이라도 알고 있는 사람이어야 합니다.
+<br>종이에 질문 리스트를 적어 준비합니다.
+<br>자신의 오른쪽에 있는 학생에 대해 질문 리스트대로 작성을 합니다.
+<br>작성이 모두 끝나면 오른쪽으로 돌아가며 각 학생이 자기소개 대신 다른 학생 한 명을 소개하게 합니다.
+
+<br>질문 예시:
+
+<br>이 친구가 좋아하는 음식은?
+<br>이 친구의 특기는?
+<br>만약 이 친구가 동물이 된다면 어떤 동물일까?
+
+
+<br>서로 돌아가며 소개<br>
+"이 친구는 바나나를 좋아합니다"<br>
+"이 친구는 물구나무 서기를 잘 합니다"<br>
+"이 친구가 동물이 된다면 나무늘보일 것 같아요"
+
+
+<br>
+<br>마지막에 서로가 소개한 내용 중 틀린 말에 대해서는 본인이 정정합니다.
+<br>툴킷 제한 시간 : 한 사람 기준 5분<br>여러명이서 함께 아이디어를 짜내서 만드는 툴킷이 아니라 개인이 어떠한 목적과 맥락을 가지고 툴킷을 만들다보니 느낌이 또 다른 것 같습니다.]]></description><link>툴킷랩_toolkit/11월-18일-저널링.html</link><guid isPermaLink="false">툴킷랩_ToolKit/11월 18일 저널링.md</guid><pubDate>Fri, 29 Nov 2024 00:51:16 GMT</pubDate></item><item><title><![CDATA[11월 19일 저널링]]></title><description><![CDATA[ 
+ <br><a data-href="툴킷랩 저널링" href="툴킷랩_toolkit/툴킷랩-저널링.html" class="internal-link" target="_self" rel="noopener nofollow">툴킷랩 저널링</a><br>'자기소개'를 주제로 한 툴킷을 만드는 활동을 하였습니다. 40분동안은 어제 만들었던 툴킷을 완성하는 과정으로 사용하였고, 나머진 다른 친구들이 완성한 툴킷을 플레이 테스팅 해보는 과정이었습니다. 4개의 툴킷을 체험했으며 각 툴킷마다의 목적과 맥락에 따라 그것을 전달하는 과정이 다르다는 부분이 주제는 같음에도 흥미로웠던 것 같습니다.<br>툴킷은 시작과 끝이 명확해야 한다는 점이 가장 컸던 것 같습니다.]]></description><link>툴킷랩_toolkit/11월-19일-저널링.html</link><guid isPermaLink="false">툴킷랩_ToolKit/11월 19일 저널링.md</guid><pubDate>Tue, 19 Nov 2024 03:06:39 GMT</pubDate></item><item><title><![CDATA[11월 20일 저널링]]></title><description><![CDATA[ 
+ <br><a data-href="툴킷랩 저널링" href="툴킷랩_toolkit/툴킷랩-저널링.html" class="internal-link" target="_self" rel="noopener nofollow">툴킷랩 저널링</a><br>남은 인원들의 툴킷을 전부 확인하는 시간을 가졌는데 굉장히 만족스러웠습니다.<br>우선 제 툴킷을 세번째 정도에 진행하였는데 전체적인 평가도 좋고, 구성도 좋다라는 평을 받았습니다. 시작과 끝이 명확하다라는 점이 확실히 그 툴킷의 평가에 큰 영향을 끼치는 것 같고, 질문도 좋았다고는 했는데 한가지 걸린 것은 “~는 ~를 닮았어요” 질문이 Political Correctness 이슈와 관련해서 위험할 수도 있을 것 같다라는 이야기가 나오긴 했습니다. 그 외엔 생각보다 의도한 대로 잘 나온 것 같아 다행이라는 생각입니다.<br>좋았던 점 - 의도한 대로 테스팅이 이루어져 목적 전달에 큰 문제가 없었기에 좋았고<br>
+아쉬운 점 - <br>이게 계속 툴킷들을 플레이 테스팅하다보니 툴킷의 맥락과 목적에 따라 판단할 수 있는 눈이 생기는 것 같아서 신기한 것 같습니다.]]></description><link>툴킷랩_toolkit/11월-20일-저널링.html</link><guid isPermaLink="false">툴킷랩_ToolKit/11월 20일 저널링.md</guid><pubDate>Wed, 20 Nov 2024 03:13:28 GMT</pubDate></item><item><title><![CDATA[11월 21일 저널링]]></title><description><![CDATA[ 
+ <br><a data-href="툴킷랩 저널링" href="툴킷랩_toolkit/툴킷랩-저널링.html" class="internal-link" target="_self" rel="noopener nofollow">툴킷랩 저널링</a><br>5번째 툴킷, 자기소개 툴킷 2차 도전<br>
+2차 목표<br>
+<br>명함 처럼 서로 주고 받는 형태의 툴을 만들 것
+<br>대화 같은 상호작용의 결과 + 물리적인 결과물이 있을 것
+<br>와  그리고 를 추구하는 입니다.<br>
+각자에게 명함 베이스를 하나씩 제공합니다. 꾸밀 수 있는 시간을 2분 드립니다.<br>이제 돌아다니면서 3명의 사람을 만납니다. 아래 3가지 주제 중 한가지를 선정하여 대화를 나눕니다. (가능한 한 사람이 달라질 때마다 다른 주제를 사용하시기를 권장드립니다.)<br>
+<br>“만약 1년 동안 무조건 한 가지 활동만 해야 한다면 무엇을 선택할 것 같아요?”
+<br>“최근에 스스로 자랑스러웠던 순간이 있다면 어떤 순간이었나요?”
+<br>“가장 큰 스트레스를 받는 상황은 어떤 상황이고, 그걸 어떻게 해결하나요?”
+<br>“아무 조건 없이 하루를 온전히 쓸 수 있다면 무엇을 하고 싶나요?”
+<br>“지금까지 가장 기억에 남는 칭찬이나 조언은 무엇인가요?”
+<br>대화가 끝나면 그 대화에서 느낀 상대방에 대해 키워드를 뽑아 상대방의 명함에 작성해줍니다.<br>3차례 반복하고 나면 “와  그리고 를 추구하는 입니다.” 의 문장이 완성됩니다. 예를 들어보자면 “자유와 평화, 그리고 행복을 추구하는 송하준입니다.” 처럼 말이죠.<br>3번의 턴을 모두 돌고 난 이후에 모두의 앞에서 그런 자신에 대해 소개합니다.<br>이런 식으로 툴킷을 만들어보았는데, 이제 조금씩 툴킷에 감을 잡아가는 것 같아 뿌듯하고 내일의 플레이 테스팅이 기대됩니다.]]></description><link>툴킷랩_toolkit/11월-21일-저널링.html</link><guid isPermaLink="false">툴킷랩_ToolKit/11월 21일 저널링.md</guid><pubDate>Fri, 22 Nov 2024 01:01:45 GMT</pubDate></item><item><title><![CDATA[11월 22일 저널링]]></title><description><![CDATA[ 
+ <br><a data-href="툴킷랩 저널링" href="툴킷랩_toolkit/툴킷랩-저널링.html" class="internal-link" target="_self" rel="noopener nofollow">툴킷랩 저널링</a><br>5번째 툴킷, 자기소개 툴킷 2차 도전<br>
+2차 목표<br>
+<br>명함 처럼 서로 주고 받는 형태의 툴을 만들 것
+<br>대화 같은 상호작용의 결과 + 물리적인 결과물이 있을 것
+<br>와  그리고 를 추구하는 입니다.<br>
+각자에게 명함 베이스를 하나씩 제공합니다. 꾸밀 수 있는 시간을 2분 드립니다.<br>이제 돌아다니면서 3명의 사람을 만납니다. 아래 3가지 주제 중 한가지를 선정하여 대화를 나눕니다. (가능한 한 사람이 달라질 때마다 다른 주제를 사용하시기를 권장드립니다.)<br>
+<br>“만약 1년 동안 무조건 한 가지 활동만 해야 한다면 무엇을 선택할 것 같아요?”
+<br>“최근에 스스로 자랑스러웠던 순간이 있다면 어떤 순간이었나요?”
+<br>“가장 큰 스트레스를 받는 상황은 어떤 상황이고, 그걸 어떻게 해결하나요?”
+<br>“아무 조건 없이 하루를 온전히 쓸 수 있다면 무엇을 하고 싶나요?”
+<br>“지금까지 가장 기억에 남는 칭찬이나 조언은 무엇인가요?”
+<br>대화가 끝나면 그 대화에서 느낀 상대방에 대해 키워드를 뽑아 상대방의 명함에 작성해줍니다.<br>3차례 반복하고 나면 “와  그리고 를 추구하는 입니다.” 의 문장이 완성됩니다. 예를 들자면 “자유와 평화, 그리고 행복을 추구하는 송하준입니다.” 처럼 말이죠.<br>3번의 턴을 모두 돌고 난 이후에 모두의 앞에서 그런 자신에 대해 소개합니다.<br>위의 툴킷을 플레이 테스팅 해보는 과정을 거쳤는데 굉장히 아쉬웠습니다. 느낌은 어느정도 있었던 것 같은데, 제가 원했던 것은 학생들이 서로의 가치에 대해 이야기를 나누고 추구한다라는 점을 작성하길 바랬습니다. 하지만 최종적으로 나온 결과물을 보니 행동에 대한 것들이 많더군요. <br>사용자들이 테스팅 하는 모습을 옆에서 지켜보았을 때, 이 부분은 제 설명의 미흡함과 사용자들끼리 너무 친하다라는 전제에서 이어진 불상사인 듯 하여 아쉬움이 더 큽니다. <br>설명과 이해도, 그리고 진행만 더 깔끔했으면 좋았을 것 같은데 까비..]]></description><link>툴킷랩_toolkit/11월-22일-저널링.html</link><guid isPermaLink="false">툴킷랩_ToolKit/11월 22일 저널링.md</guid><pubDate>Fri, 22 Nov 2024 02:36:43 GMT</pubDate></item><item><title><![CDATA[11월 25일 저널링]]></title><description><![CDATA[ 
+ <br><a data-href="툴킷랩 저널링" href="툴킷랩_toolkit/툴킷랩-저널링.html" class="internal-link" target="_self" rel="noopener nofollow">툴킷랩 저널링</a><br>오늘 툴킷랩은 하루종일 플레이 테스팅만 진행되었습니다.<br>
+대부분의 툴킷이 게임의 느낌으로 제작된 경향이 컸던 것 같고, 동기에 대한 생각을 다시 한번 하게 된 것 같습니다.<br>플레이어, 대상자는 결국 그 게임 안에서 자신이 어떠한 활동을 해야한다라는 것에서 동기를 얻을 수 있어야 하는데, 그 동기를 재미로 부여하는 것과 아무것도 없는 상태에서 하라고 하는 상태는 차이가 아주 크다라는 점을 느꼈던 것 같습니다.<br>그런 의미에서 제가 앞으로 만들 툴킷들은 재미와 승리를 자주 동기로 사용할 것이고, 게임의 형태가 주로 나오지 않을까 생각해봅니다.]]></description><link>툴킷랩_toolkit/11월-25일-저널링.html</link><guid isPermaLink="false">툴킷랩_ToolKit/11월 25일 저널링.md</guid><pubDate>Mon, 25 Nov 2024 02:59:09 GMT</pubDate></item><item><title><![CDATA[11월 26일 저널링]]></title><description><![CDATA[ 
+ <br><a data-href="툴킷랩 저널링" href="툴킷랩_toolkit/툴킷랩-저널링.html" class="internal-link" target="_self" rel="noopener nofollow">툴킷랩 저널링</a><br>오늘은 삼성생명&amp;놀공이 함께 한 프로젝트 '라이키'를 직접 플레이 테스팅 해보는 시간을 가졌습니다. 그렇기에 오늘 저널링은 라이키의 리뷰로 대체하려 합니다.<br>느낀 점 - 목적성 부문에서 굉장히 좋았던 것 같습니다. 학생들의 자살율 방지, 마음 보호 훈련의 목적에서 플레이 테스팅 하는 과정에서도 울림이 있었다고 생각합니다.<br>장점 - 대화를 많이 할 수 있었습니다. 그 대화가 단순한 대화가 아니라, 서로를 공감해주고 치유해주기 위한 목적의 대화였다라는 점에서 좋았던 것 같습니다. 또한 오늘 진행했던 테스트는 서로가 이미 너무 잘 알고 편한 상태였기에 시끄러웠지만, 막상 정식으로 진행되면 진지한 분위기가 연출될 것 같습니다.<br>단점 - 똑같이 반복되는 패턴의 게임들이 많아 게임 진행의 후반정도로 다가오면 지칩니다. 말을 하는 것도 지치고, 계속 맞추거나 행동하는 것도 지칩니다.<br>보완점 - 지치지 않을 정도의 리워드와 보상을 제공해서 동기부여를 하거나, 게임을 더욱 다채롭게 꾸미면 좋을 것 같습니다.]]></description><link>툴킷랩_toolkit/11월-26일-저널링.html</link><guid isPermaLink="false">툴킷랩_ToolKit/11월 26일 저널링.md</guid><pubDate>Tue, 26 Nov 2024 02:47:13 GMT</pubDate></item><item><title><![CDATA[11월 27일 저널링]]></title><description><![CDATA[ 
+ <br><a data-href="툴킷랩 저널링" href="툴킷랩_toolkit/툴킷랩-저널링.html" class="internal-link" target="_self" rel="noopener nofollow">툴킷랩 저널링</a><br>거꾸로 캠퍼스의 공간들을 돌아다니며 공간에서의 툴킷을 찾아나섰습니다. 어떠한 의도로, 왜 이곳에 배치되어, 효과적으로 제 역할을 다 하고 있는가?<br>이러한 것들을 판단하며 총 다섯가지의 툴킷을 찾았고, 이 툴킷들이 가지고 있는 의도나 목적들이 다 각기 다르고 없다면 생각보다 더 불편할 것 같아 사소함에서 소중함을 느끼는 (?) 재밌는 활동이었던 것 같습니다.<br>또한 오늘의 배움을 바탕으로 내일은 공간 기반 툴킷을 만든다고 합니다. 완전 기대됨. 와쿠와쿠 ㅋ<br>공간 툴킷 제작<br>
+<br>
+공간을 움직여야 한다
+
+<br>
+우리가 만든 툴킷이&nbsp;
+
+<br>
+입장한다
+
+<br>
+줄을 확인하고 선다
+
+<br>
+배식판과 식기를 받는다
+
+<br>
+밥을 받는다
+
+<br>
+자리에 앉는다
+
+<br>
+먹는다<br>
+동선, 특정한 행동을 하도록 공간을 구성하라
+
+]]></description><link>툴킷랩_toolkit/11월-27일-저널링.html</link><guid isPermaLink="false">툴킷랩_ToolKit/11월 27일 저널링.md</guid><pubDate>Wed, 27 Nov 2024 03:26:20 GMT</pubDate></item><item><title><![CDATA[11월 29일 저널링]]></title><description><![CDATA[ 
+ <br><a data-href="툴킷랩 저널링" href="툴킷랩_toolkit/툴킷랩-저널링.html" class="internal-link" target="_self" rel="noopener nofollow">툴킷랩 저널링</a>]]></description><link>툴킷랩_toolkit/11월-29일-저널링.html</link><guid isPermaLink="false">툴킷랩_ToolKit/11월 29일 저널링.md</guid><pubDate>Fri, 29 Nov 2024 00:59:29 GMT</pubDate></item><item><title><![CDATA[11일 28일 저널링]]></title><description><![CDATA[ 
+ <br><a data-href="툴킷랩 저널링" href="툴킷랩_toolkit/툴킷랩-저널링.html" class="internal-link" target="_self" rel="noopener nofollow">툴킷랩 저널링</a><br>공간 기획 툴킷을 제작하는 시간을 가졋습니다. 느티와 함께 제작하였고, 컨셉은 영화관으로 하여 기존에 영화관에서는 영화를 보는 도중에 팝콘, 음료 리필이 안되는 불편, 그리고 모르는 사람들과 한 공간에서 영화를 보는 것의 불편함까지는 아니지만 아무튼 조금 더 프라이버시한 환경을 만들기 위해 가림막을 설치하는 등의 구성을 짜보았습니다.<br>공간 자체를 툴킷으로 이용한다라는 것 자체가 기획하는 과정마저도 신기한 느낌이 드는 것 같습니다. <br><img alt="Pasted image 20241128121128.png" src="툴킷랩_toolkit/ai/pasted-image-20241128121128.png">]]></description><link>툴킷랩_toolkit/11일-28일-저널링.html</link><guid isPermaLink="false">툴킷랩_ToolKit/11일 28일 저널링.md</guid><pubDate>Fri, 29 Nov 2024 00:59:46 GMT</pubDate><enclosure url="툴킷랩_toolkit/ai/pasted-image-20241128121128.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;툴킷랩_toolkit/ai/pasted-image-20241128121128.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[툴킷랩]]></title><description><![CDATA[ 
+ <br><a data-href="툴킷랩 저널링" href="툴킷랩_toolkit/툴킷랩-저널링.html" class="internal-link" target="_self" rel="noopener nofollow">툴킷랩 저널링</a><br>
+<a data-href="Ai" href="툴킷랩_toolkit/ai/ai.html" class="internal-link" target="_self" rel="noopener nofollow">Ai</a>]]></description><link>툴킷랩_toolkit/툴킷랩.html</link><guid isPermaLink="false">툴킷랩_ToolKit/툴킷랩.md</guid><pubDate>Fri, 29 Nov 2024 02:10:48 GMT</pubDate></item><item><title><![CDATA[툴킷랩 저널링]]></title><description><![CDATA[ 
+ <br>
+<br><a data-tooltip-position="top" aria-label="**지(知) 알게된 점**" data-href="#**지(知) 알게된 점**" href="about:blank#**지(知)_알게된_점**" class="internal-link" target="_self" rel="noopener nofollow">지(知) 알게된 점</a>
+<br><a data-tooltip-position="top" aria-label="**정(情) 느낀 점**" data-href="#**정(情) 느낀 점**" href="about:blank#**정(情)_느낀_점**" class="internal-link" target="_self" rel="noopener nofollow">정(情) 느낀 점</a>
+<br><a data-tooltip-position="top" aria-label="**의(意) 실천할 점**" data-href="#**의(意) 실천할 점**" href="about:blank#**의(意)_실천할_점**" class="internal-link" target="_self" rel="noopener nofollow">의(意) 실천할 점</a>
+<br><br><br><br>
+<br>
+어플리케이션 기획하기 📅 2024-11-29
+
+<br>
+김민승 칭찬해주기 📅 2024-11-29
+
+<br>
+이지유랑 밥먹기 📅 2024-11-29 
+
+<br>
+이주헌 안아주기 📅 2024-11-29 
+
+<br>
+개인페이지 만들기
+
+<br>
+점심 맛있게 야무지게 조져버리긔
+
+<br><br>어플리케이션 기획하기 📅 2024-11-29 (<a rel="noopener" target="_self" class="internal-link">툴킷랩 저널링 &gt; **의(意) 실천할 점**</a>)<a class="tasks-edit" title="Edit task" href="about:blank#"></a><a class="tasks-postpone" title="ℹ️ Due tomorrow, on 토 30일 11월 (right-click for more options)"></a><br>김민승 칭찬해주기]]></description><link>툴킷랩_toolkit/툴킷랩-저널링.html</link><guid isPermaLink="false">툴킷랩_ToolKit/툴킷랩 저널링.md</guid><pubDate>Fri, 29 Nov 2024 02:14:07 GMT</pubDate></item><item><title><![CDATA[2024-11-29]]></title><description><![CDATA[ 
+ <br>음]]></description><link>2024-11-29.html</link><guid isPermaLink="false">2024-11-29.md</guid><pubDate>Fri, 29 Nov 2024 02:43:32 GMT</pubDate></item><item><title><![CDATA[index]]></title><description><![CDATA[ 
+ <br>여기가 홈입니다.<br><a data-href="2024-11-29" href="2024-11-29.html" class="internal-link" target="_self" rel="noopener nofollow">2024-11-29</a> 페이지 링크입니다.]]></description><link>index.html</link><guid isPermaLink="false">index.md</guid><pubDate>Fri, 29 Nov 2024 02:43:29 GMT</pubDate></item></channel></rss>
